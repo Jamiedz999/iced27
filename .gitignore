@@ -1,0 +1,5 @@
+# Office lock files
+~$*
+.~lock.*
+# macOS
+.DS_Store
