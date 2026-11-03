@@ -3,3 +3,13 @@
 .~lock.*
 # macOS
 .DS_Store
+# Dependencies / build caches
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Local-only agent/planning notes
+AGENTS.md
+CLAUDE.md
+plan.md
+todo.md

@@ -1,0 +1,3535 @@
+{
+  "direction": "med2mod",
+  "works": {
+    "AidedCheltC": {
+      "segments": 133,
+      "queries": 133,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1021,
+      "target_tokens": 1073,
+      "length_ratio": 1.050930460333007,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.1428571428571428
+      ],
+      "shared_token_share": 0.25857002938295787,
+      "query_len_min": 1,
+      "query_len_median": 7,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 22,
+        "5–8": 55,
+        "9–14": 55,
+        "15+": 1
+      },
+      "target_sha256": "839230e2a7ab"
+    },
+    "abbot": {
+      "segments": 94,
+      "queries": 94,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 831,
+      "target_tokens": 929,
+      "length_ratio": 1.117930204572804,
+      "segment_ratio_median": 1.0833333333333333,
+      "segment_ratio_iqr": [
+        0.9791666666666666,
+        1.2857142857142858
+      ],
+      "shared_token_share": 0.16004813477737664,
+      "query_len_min": 4,
+      "query_len_median": 9.0,
+      "query_len_max": 16,
+      "query_len_bands": {
+        "1–4": 5,
+        "5–8": 39,
+        "9–14": 47,
+        "15+": 3
+      },
+      "target_sha256": "ed4d16019168"
+    },
+    "acSen": {
+      "segments": 522,
+      "queries": 522,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 3879,
+      "target_tokens": 4007,
+      "length_ratio": 1.0329981954111884,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.0
+      ],
+      "shared_token_share": 0.32327919566898683,
+      "query_len_min": 2,
+      "query_len_median": 6.0,
+      "query_len_max": 28,
+      "query_len_bands": {
+        "1–4": 88,
+        "5–8": 284,
+        "9–14": 125,
+        "15+": 25
+      },
+      "target_sha256": "1d788ff6b184"
+    },
+    "aidedBres": {
+      "segments": 43,
+      "queries": 43,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 284,
+      "target_tokens": 335,
+      "length_ratio": 1.1795774647887325,
+      "segment_ratio_median": 1.1666666666666667,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3333333333333333
+      ],
+      "shared_token_share": 0.15845070422535212,
+      "query_len_min": 3,
+      "query_len_median": 6,
+      "query_len_max": 13,
+      "query_len_bands": {
+        "1–4": 9,
+        "5–8": 24,
+        "9–14": 10,
+        "15+": 0
+      },
+      "target_sha256": "ebb26a9e69cd"
+    },
+    "aidedCheitM": {
+      "segments": 101,
+      "queries": 101,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 721,
+      "target_tokens": 745,
+      "length_ratio": 1.0332871012482663,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.101010101010101
+      ],
+      "shared_token_share": 0.3273231622746186,
+      "query_len_min": 2,
+      "query_len_median": 7,
+      "query_len_max": 14,
+      "query_len_bands": {
+        "1–4": 16,
+        "5–8": 56,
+        "9–14": 29,
+        "15+": 0
+      },
+      "target_sha256": "8ef9bd59dca6"
+    },
+    "aidedChel": {
+      "segments": 133,
+      "queries": 133,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1020,
+      "target_tokens": 1073,
+      "length_ratio": 1.0519607843137255,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.1428571428571428
+      ],
+      "shared_token_share": 0.25882352941176473,
+      "query_len_min": 1,
+      "query_len_median": 7,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 22,
+        "5–8": 55,
+        "9–14": 55,
+        "15+": 1
+      },
+      "target_sha256": "839230e2a7ab"
+    },
+    "aidedChonch": {
+      "segments": 128,
+      "queries": 128,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 858,
+      "target_tokens": 996,
+      "length_ratio": 1.1608391608391608,
+      "segment_ratio_median": 1.1428571428571428,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3333333333333333
+      ],
+      "shared_token_share": 0.11305361305361306,
+      "query_len_min": 2,
+      "query_len_median": 6.0,
+      "query_len_max": 13,
+      "query_len_bands": {
+        "1–4": 20,
+        "5–8": 75,
+        "9–14": 33,
+        "15+": 0
+      },
+      "target_sha256": "3104dfefc290"
+    },
+    "aidedConr": {
+      "segments": 323,
+      "queries": 323,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 1614,
+      "target_tokens": 2084,
+      "length_ratio": 1.2912019826517969,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.0848822800495663,
+      "query_len_min": 1,
+      "query_len_median": 5,
+      "query_len_max": 14,
+      "query_len_bands": {
+        "1–4": 159,
+        "5–8": 141,
+        "9–14": 23,
+        "15+": 0
+      },
+      "target_sha256": "e5f7df859095"
+    },
+    "aidedDiar": {
+      "segments": 545,
+      "queries": 545,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 4003,
+      "target_tokens": 4536,
+      "length_ratio": 1.1331501373969524,
+      "segment_ratio_median": 1.0909090909090908,
+      "segment_ratio_iqr": [
+        1.0,
+        1.2970588235294118
+      ],
+      "shared_token_share": 0.17536847364476643,
+      "query_len_min": 1,
+      "query_len_median": 7,
+      "query_len_max": 21,
+      "query_len_bands": {
+        "1–4": 103,
+        "5–8": 274,
+        "9–14": 148,
+        "15+": 20
+      },
+      "target_sha256": "e87e9fbedb92"
+    },
+    "aidedFerg": {
+      "segments": 54,
+      "queries": 54,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 440,
+      "target_tokens": 453,
+      "length_ratio": 1.0295454545454545,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.1027777777777779
+      ],
+      "shared_token_share": 0.2818181818181818,
+      "query_len_min": 2,
+      "query_len_median": 7.5,
+      "query_len_max": 18,
+      "query_len_bands": {
+        "1–4": 8,
+        "5–8": 24,
+        "9–14": 20,
+        "15+": 2
+      },
+      "target_sha256": "fd99466c7b58"
+    },
+    "aidedLoeg": {
+      "segments": 29,
+      "queries": 29,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 210,
+      "target_tokens": 220,
+      "length_ratio": 1.0476190476190477,
+      "segment_ratio_median": 1.1428571428571428,
+      "segment_ratio_iqr": [
+        1.0,
+        1.2361111111111112
+      ],
+      "shared_token_share": 0.2571428571428571,
+      "query_len_min": 2,
+      "query_len_median": 6,
+      "query_len_max": 23,
+      "query_len_bands": {
+        "1–4": 4,
+        "5–8": 16,
+        "9–14": 8,
+        "15+": 1
+      },
+      "target_sha256": "ac5f4cc11454"
+    },
+    "aidedMael": {
+      "segments": 104,
+      "queries": 104,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 688,
+      "target_tokens": 791,
+      "length_ratio": 1.1497093023255813,
+      "segment_ratio_median": 1.1222222222222222,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.11482558139534883,
+      "query_len_min": 2,
+      "query_len_median": 6.0,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 26,
+        "5–8": 47,
+        "9–14": 30,
+        "15+": 1
+      },
+      "target_sha256": "ec8b9c638e13"
+    },
+    "aidedOenfir": {
+      "segments": 189,
+      "queries": 189,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1102,
+      "target_tokens": 1251,
+      "length_ratio": 1.1352087114337568,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.25
+      ],
+      "shared_token_share": 0.20871143375680581,
+      "query_len_min": 1,
+      "query_len_median": 5,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 58,
+        "5–8": 101,
+        "9–14": 29,
+        "15+": 1
+      },
+      "target_sha256": "f74d4535a85f"
+    },
+    "aislOeng": {
+      "segments": 207,
+      "queries": 207,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1441,
+      "target_tokens": 1598,
+      "length_ratio": 1.1089521165857044,
+      "segment_ratio_median": 1.1111111111111112,
+      "segment_ratio_iqr": [
+        1.0,
+        1.2857142857142858
+      ],
+      "shared_token_share": 0.09299097848716169,
+      "query_len_min": 1,
+      "query_len_median": 6,
+      "query_len_max": 17,
+      "query_len_bands": {
+        "1–4": 46,
+        "5–8": 104,
+        "9–14": 53,
+        "15+": 4
+      },
+      "target_sha256": "3f9eeda1862b"
+    },
+    "baileBinn": {
+      "segments": 109,
+      "queries": 109,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 547,
+      "target_tokens": 680,
+      "length_ratio": 1.243144424131627,
+      "segment_ratio_median": 1.1666666666666667,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.14076782449725778,
+      "query_len_min": 1,
+      "query_len_median": 5,
+      "query_len_max": 10,
+      "query_len_bands": {
+        "1–4": 45,
+        "5–8": 61,
+        "9–14": 3,
+        "15+": 0
+      },
+      "target_sha256": "c9219a867fd2"
+    },
+    "boroma": {
+      "segments": 845,
+      "queries": 844,
+      "empty_query_segments": 1,
+      "empty_answer_segments": 0,
+      "query_tokens": 5665,
+      "target_tokens": 6230,
+      "length_ratio": 1.0997352162400706,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.2
+      ],
+      "shared_token_share": 0.1759929390997352,
+      "query_len_min": 1,
+      "query_len_median": 6.0,
+      "query_len_max": 16,
+      "query_len_bands": {
+        "1–4": 184,
+        "5–8": 470,
+        "9–14": 185,
+        "15+": 5
+      },
+      "target_sha256": "26724679f2c7"
+    },
+    "cathAlma": {
+      "segments": 330,
+      "queries": 330,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 2062,
+      "target_tokens": 2369,
+      "length_ratio": 1.1488845780795345,
+      "segment_ratio_median": 1.0357142857142856,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3333333333333333
+      ],
+      "shared_token_share": 0.1571290009699321,
+      "query_len_min": 2,
+      "query_len_median": 6.0,
+      "query_len_max": 20,
+      "query_len_bands": {
+        "1–4": 101,
+        "5–8": 170,
+        "9–14": 56,
+        "15+": 3
+      },
+      "target_sha256": "9b73d7c600c7"
+    },
+    "cathCairnn": {
+      "segments": 216,
+      "queries": 216,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1453,
+      "target_tokens": 1753,
+      "length_ratio": 1.2064693737095664,
+      "segment_ratio_median": 1.1715686274509804,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.14796971782518925,
+      "query_len_min": 1,
+      "query_len_median": 6.0,
+      "query_len_max": 23,
+      "query_len_bands": {
+        "1–4": 57,
+        "5–8": 107,
+        "9–14": 44,
+        "15+": 8
+      },
+      "target_sha256": "251fb186415a"
+    },
+    "cathMaige": {
+      "segments": 638,
+      "queries": 638,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 3781,
+      "target_tokens": 4227,
+      "length_ratio": 1.1179582121131975,
+      "segment_ratio_median": 1.0606617647058822,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3333333333333333
+      ],
+      "shared_token_share": 0.14176143877281142,
+      "query_len_min": 1,
+      "query_len_median": 6.0,
+      "query_len_max": 17,
+      "query_len_bands": {
+        "1–4": 177,
+        "5–8": 380,
+        "9–14": 76,
+        "15+": 5
+      },
+      "target_sha256": "c311ccfe2a1f"
+    },
+    "ceartCla": {
+      "segments": 113,
+      "queries": 113,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 798,
+      "target_tokens": 994,
+      "length_ratio": 1.2456140350877194,
+      "segment_ratio_median": 1.1666666666666667,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5634920634920635
+      ],
+      "shared_token_share": 0.12781954887218044,
+      "query_len_min": 3,
+      "query_len_median": 7,
+      "query_len_max": 16,
+      "query_len_bands": {
+        "1–4": 24,
+        "5–8": 54,
+        "9–14": 34,
+        "15+": 1
+      },
+      "target_sha256": "1bd4d2a1ee11"
+    },
+    "compertMon": {
+      "segments": 603,
+      "queries": 603,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 4278,
+      "target_tokens": 4371,
+      "length_ratio": 1.0217391304347827,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        0.875,
+        1.1666666666666667
+      ],
+      "shared_token_share": 0.255960729312763,
+      "query_len_min": 1,
+      "query_len_median": 7,
+      "query_len_max": 20,
+      "query_len_bands": {
+        "1–4": 93,
+        "5–8": 343,
+        "9–14": 159,
+        "15+": 8
+      },
+      "target_sha256": "6f70d00b0d8d"
+    },
+    "comracLiad": {
+      "segments": 185,
+      "queries": 185,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 888,
+      "target_tokens": 964,
+      "length_ratio": 1.0855855855855856,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.2
+      ],
+      "shared_token_share": 0.28265765765765766,
+      "query_len_min": 1,
+      "query_len_median": 4,
+      "query_len_max": 14,
+      "query_len_bands": {
+        "1–4": 100,
+        "5–8": 72,
+        "9–14": 13,
+        "15+": 0
+      },
+      "target_sha256": "53b31ac78c32"
+    },
+    "echtraCho": {
+      "segments": 111,
+      "queries": 111,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 613,
+      "target_tokens": 786,
+      "length_ratio": 1.2822185970636215,
+      "segment_ratio_median": 1.2857142857142858,
+      "segment_ratio_iqr": [
+        1.0,
+        2.0
+      ],
+      "shared_token_share": 0.08972267536704731,
+      "query_len_min": 1,
+      "query_len_median": 5,
+      "query_len_max": 22,
+      "query_len_bands": {
+        "1–4": 52,
+        "5–8": 46,
+        "9–14": 11,
+        "15+": 2
+      },
+      "target_sha256": "b837a72831c1"
+    },
+    "echtraCorm": {
+      "segments": 217,
+      "queries": 217,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1397,
+      "target_tokens": 1755,
+      "length_ratio": 1.2562634216177524,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.1474588403722262,
+      "query_len_min": 2,
+      "query_len_median": 6,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 53,
+        "5–8": 116,
+        "9–14": 47,
+        "15+": 1
+      },
+      "target_sha256": "7ddb9b44f974"
+    },
+    "echtraFer": {
+      "segments": 156,
+      "queries": 156,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 814,
+      "target_tokens": 1053,
+      "length_ratio": 1.2936117936117937,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.12653562653562653,
+      "query_len_min": 1,
+      "query_len_median": 5.0,
+      "query_len_max": 11,
+      "query_len_bands": {
+        "1–4": 71,
+        "5–8": 72,
+        "9–14": 13,
+        "15+": 0
+      },
+      "target_sha256": "7ed6550768a1"
+    },
+    "echtraMac": {
+      "segments": 291,
+      "queries": 291,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1636,
+      "target_tokens": 1813,
+      "length_ratio": 1.1081907090464547,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.25
+      ],
+      "shared_token_share": 0.14425427872860636,
+      "query_len_min": 1,
+      "query_len_median": 5,
+      "query_len_max": 14,
+      "query_len_bands": {
+        "1–4": 96,
+        "5–8": 163,
+        "9–14": 32,
+        "15+": 0
+      },
+      "target_sha256": "b6eba7655e8a"
+    },
+    "esnadaTige": {
+      "segments": 126,
+      "queries": 126,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 803,
+      "target_tokens": 1022,
+      "length_ratio": 1.2727272727272727,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.1295143212951432,
+      "query_len_min": 2,
+      "query_len_median": 6.0,
+      "query_len_max": 16,
+      "query_len_bands": {
+        "1–4": 35,
+        "5–8": 65,
+        "9–14": 24,
+        "15+": 2
+      },
+      "target_sha256": "85b11a9c84bf"
+    },
+    "feisTighe": {
+      "segments": 106,
+      "queries": 106,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 913,
+      "target_tokens": 907,
+      "length_ratio": 0.9934282584884995,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        0.9090909090909091,
+        1.078525641025641
+      ],
+      "shared_token_share": 0.3953997809419496,
+      "query_len_min": 3,
+      "query_len_median": 8.0,
+      "query_len_max": 25,
+      "query_len_bands": {
+        "1–4": 5,
+        "5–8": 55,
+        "9–14": 42,
+        "15+": 4
+      },
+      "target_sha256": "dbd92ffdcdda"
+    },
+    "fingalRon": {
+      "segments": 333,
+      "queries": 333,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 2156,
+      "target_tokens": 2509,
+      "length_ratio": 1.1637291280148423,
+      "segment_ratio_median": 1.1428571428571428,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.1345083487940631,
+      "query_len_min": 1,
+      "query_len_median": 6,
+      "query_len_max": 19,
+      "query_len_bands": {
+        "1–4": 89,
+        "5–8": 172,
+        "9–14": 70,
+        "15+": 2
+      },
+      "target_sha256": "d6ed31ffaef1"
+    },
+    "forbDroma": {
+      "segments": 2295,
+      "queries": 2295,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 17581,
+      "target_tokens": 20196,
+      "length_ratio": 1.148740117171947,
+      "segment_ratio_median": 1.125,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.11461236562197827,
+      "query_len_min": 1,
+      "query_len_median": 7,
+      "query_len_max": 27,
+      "query_len_bands": {
+        "1–4": 423,
+        "5–8": 1067,
+        "9–14": 694,
+        "15+": 111
+      },
+      "target_sha256": "ce21ff0eb6bf"
+    },
+    "genChor": {
+      "segments": 259,
+      "queries": 259,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 1511,
+      "target_tokens": 1654,
+      "length_ratio": 1.0946393117140967,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.25
+      ],
+      "shared_token_share": 0.14559894109861019,
+      "query_len_min": 2,
+      "query_len_median": 5,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 89,
+        "5–8": 128,
+        "9–14": 40,
+        "15+": 2
+      },
+      "target_sha256": "45543ee2571a"
+    },
+    "immBrain": {
+      "segments": 318,
+      "queries": 318,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1792,
+      "target_tokens": 1996,
+      "length_ratio": 1.1138392857142858,
+      "segment_ratio_median": 1.1111111111111112,
+      "segment_ratio_iqr": [
+        1.0,
+        1.25
+      ],
+      "shared_token_share": 0.14285714285714285,
+      "query_len_min": 3,
+      "query_len_median": 5.0,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 87,
+        "5–8": 200,
+        "9–14": 29,
+        "15+": 2
+      },
+      "target_sha256": "34e097c97971"
+    },
+    "longesMac": {
+      "segments": 399,
+      "queries": 399,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 2428,
+      "target_tokens": 2600,
+      "length_ratio": 1.0708401976935749,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.25
+      ],
+      "shared_token_share": 0.11614497528830313,
+      "query_len_min": 1,
+      "query_len_median": 6,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 97,
+        "5–8": 237,
+        "9–14": 64,
+        "15+": 1
+      },
+      "target_sha256": "e98c3b2c2dba"
+    },
+    "mescaUlad": {
+      "segments": 1098,
+      "queries": 1097,
+      "empty_query_segments": 1,
+      "empty_answer_segments": 2,
+      "query_tokens": 8073,
+      "target_tokens": 9620,
+      "length_ratio": 1.1916264090177133,
+      "segment_ratio_median": 1.1666666666666667,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.12993930385234734,
+      "query_len_min": 1,
+      "query_len_median": 7,
+      "query_len_max": 21,
+      "query_len_bands": {
+        "1–4": 178,
+        "5–8": 579,
+        "9–14": 327,
+        "15+": 13
+      },
+      "target_sha256": "a49fb438ca2d"
+    },
+    "noínUlad": {
+      "segments": 71,
+      "queries": 71,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 457,
+      "target_tokens": 575,
+      "length_ratio": 1.2582056892778994,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.12910284463894967,
+      "query_len_min": 2,
+      "query_len_median": 6,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 18,
+        "5–8": 40,
+        "9–14": 12,
+        "15+": 1
+      },
+      "target_sha256": "8a157dfc171d"
+    },
+    "oenachInd": {
+      "segments": 216,
+      "queries": 216,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1079,
+      "target_tokens": 1285,
+      "length_ratio": 1.190917516218721,
+      "segment_ratio_median": 1.2,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4
+      ],
+      "shared_token_share": 0.15477293790546803,
+      "query_len_min": 3,
+      "query_len_median": 5.0,
+      "query_len_max": 7,
+      "query_len_bands": {
+        "1–4": 60,
+        "5–8": 156,
+        "9–14": 0,
+        "15+": 0
+      },
+      "target_sha256": "fc919c9f0e3f"
+    },
+    "oidheChlo": {
+      "segments": 873,
+      "queries": 873,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 6154,
+      "target_tokens": 6513,
+      "length_ratio": 1.05833604159896,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.1428571428571428
+      ],
+      "shared_token_share": 0.5818979525511863,
+      "query_len_min": 2,
+      "query_len_median": 6,
+      "query_len_max": 20,
+      "query_len_bands": {
+        "1–4": 121,
+        "5–8": 539,
+        "9–14": 197,
+        "15+": 16
+      },
+      "target_sha256": "f3e3a691532a"
+    },
+    "orgTri": {
+      "segments": 99,
+      "queries": 99,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 656,
+      "target_tokens": 810,
+      "length_ratio": 1.2347560975609757,
+      "segment_ratio_median": 1.2,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.1448170731707317,
+      "query_len_min": 1,
+      "query_len_median": 6,
+      "query_len_max": 14,
+      "query_len_bands": {
+        "1–4": 25,
+        "5–8": 49,
+        "9–14": 25,
+        "15+": 0
+      },
+      "target_sha256": "993b14500b88"
+    },
+    "scelaCano": {
+      "segments": 594,
+      "queries": 594,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 1,
+      "query_tokens": 3859,
+      "target_tokens": 4482,
+      "length_ratio": 1.161440787768852,
+      "segment_ratio_median": 1.1666666666666667,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3409090909090908
+      ],
+      "shared_token_share": 0.13345426276237368,
+      "query_len_min": 1,
+      "query_len_median": 6.0,
+      "query_len_max": 23,
+      "query_len_bands": {
+        "1–4": 168,
+        "5–8": 295,
+        "9–14": 122,
+        "15+": 9
+      },
+      "target_sha256": "6964a5cc6211"
+    },
+    "scelaCol": {
+      "segments": 78,
+      "queries": 78,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 600,
+      "target_tokens": 694,
+      "length_ratio": 1.1566666666666667,
+      "segment_ratio_median": 1.2,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3333333333333333
+      ],
+      "shared_token_share": 0.21166666666666667,
+      "query_len_min": 1,
+      "query_len_median": 8.0,
+      "query_len_max": 16,
+      "query_len_bands": {
+        "1–4": 13,
+        "5–8": 36,
+        "9–14": 25,
+        "15+": 4
+      },
+      "target_sha256": "5de9ec4f9f1f"
+    },
+    "scelaGu": {
+      "segments": 129,
+      "queries": 129,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 771,
+      "target_tokens": 964,
+      "length_ratio": 1.2503242542153048,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.12840466926070038,
+      "query_len_min": 1,
+      "query_len_median": 5,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 41,
+        "5–8": 61,
+        "9–14": 26,
+        "15+": 1
+      },
+      "target_sha256": "db5e0e15c01c"
+    },
+    "scelaGua": {
+      "segments": 34,
+      "queries": 34,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 215,
+      "target_tokens": 261,
+      "length_ratio": 1.213953488372093,
+      "segment_ratio_median": 1.126984126984127,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5416666666666667
+      ],
+      "shared_token_share": 0.2372093023255814,
+      "query_len_min": 3,
+      "query_len_median": 6.0,
+      "query_len_max": 12,
+      "query_len_bands": {
+        "1–4": 8,
+        "5–8": 20,
+        "9–14": 6,
+        "15+": 0
+      },
+      "target_sha256": "15ba6e8e0698"
+    },
+    "scelaMon": {
+      "segments": 96,
+      "queries": 96,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 632,
+      "target_tokens": 771,
+      "length_ratio": 1.2199367088607596,
+      "segment_ratio_median": 1.2222222222222223,
+      "segment_ratio_iqr": [
+        1.0,
+        1.5
+      ],
+      "shared_token_share": 0.15031645569620253,
+      "query_len_min": 1,
+      "query_len_median": 6.0,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 20,
+        "5–8": 57,
+        "9–14": 18,
+        "15+": 1
+      },
+      "target_sha256": "2728bec66979"
+    },
+    "scelaMuc": {
+      "segments": 374,
+      "queries": 374,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 2412,
+      "target_tokens": 2725,
+      "length_ratio": 1.1297678275290215,
+      "segment_ratio_median": 1.087121212121212,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3333333333333333
+      ],
+      "shared_token_share": 0.11401326699834162,
+      "query_len_min": 1,
+      "query_len_median": 6.0,
+      "query_len_max": 16,
+      "query_len_bands": {
+        "1–4": 95,
+        "5–8": 208,
+        "9–14": 63,
+        "15+": 8
+      },
+      "target_sha256": "4190d60961f7"
+    },
+    "tainBo": {
+      "segments": 903,
+      "queries": 902,
+      "empty_query_segments": 1,
+      "empty_answer_segments": 0,
+      "query_tokens": 7731,
+      "target_tokens": 8585,
+      "length_ratio": 1.1104643642478333,
+      "segment_ratio_median": 1.1111111111111112,
+      "segment_ratio_iqr": [
+        1.0,
+        1.25
+      ],
+      "shared_token_share": 0.16323890829129478,
+      "query_len_min": 2,
+      "query_len_median": 8.0,
+      "query_len_max": 32,
+      "query_len_bands": {
+        "1–4": 82,
+        "5–8": 391,
+        "9–14": 382,
+        "15+": 47
+      },
+      "target_sha256": "21255175acb7"
+    },
+    "tochEm": {
+      "segments": 567,
+      "queries": 565,
+      "empty_query_segments": 2,
+      "empty_answer_segments": 2,
+      "query_tokens": 4436,
+      "target_tokens": 5413,
+      "length_ratio": 1.2202434625788998,
+      "segment_ratio_median": 1.1818181818181819,
+      "segment_ratio_iqr": [
+        1.0,
+        1.4444444444444444
+      ],
+      "shared_token_share": 0.12736699729486023,
+      "query_len_min": 2,
+      "query_len_median": 8,
+      "query_len_max": 18,
+      "query_len_bands": {
+        "1–4": 77,
+        "5–8": 258,
+        "9–14": 216,
+        "15+": 14
+      },
+      "target_sha256": "c9ed758a452d"
+    },
+    "tochmEm": {
+      "segments": 209,
+      "queries": 209,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 1366,
+      "target_tokens": 1768,
+      "length_ratio": 1.294289897510981,
+      "segment_ratio_median": 1.25,
+      "segment_ratio_iqr": [
+        1.0,
+        1.6
+      ],
+      "shared_token_share": 0.12152269399707175,
+      "query_len_min": 1,
+      "query_len_median": 6,
+      "query_len_max": 15,
+      "query_len_bands": {
+        "1–4": 48,
+        "5–8": 109,
+        "9–14": 50,
+        "15+": 2
+      },
+      "target_sha256": "fbf6e3745f3d"
+    },
+    "tochmEt": {
+      "segments": 999,
+      "queries": 999,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 6684,
+      "target_tokens": 7758,
+      "length_ratio": 1.1606822262118492,
+      "segment_ratio_median": 1.1428571428571428,
+      "segment_ratio_iqr": [
+        1.0,
+        1.3076923076923077
+      ],
+      "shared_token_share": 0.13420107719928187,
+      "query_len_min": 2,
+      "query_len_median": 6,
+      "query_len_max": 21,
+      "query_len_bands": {
+        "1–4": 211,
+        "5–8": 563,
+        "9–14": 217,
+        "15+": 8
+      },
+      "target_sha256": "2cdc950707a9"
+    },
+    "toruig": {
+      "segments": 205,
+      "queries": 201,
+      "empty_query_segments": 4,
+      "empty_answer_segments": 4,
+      "query_tokens": 1778,
+      "target_tokens": 1770,
+      "length_ratio": 0.9955005624296963,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        0.8944444444444444,
+        1.1666666666666667
+      ],
+      "shared_token_share": 0.4735658042744657,
+      "query_len_min": 3,
+      "query_len_median": 8,
+      "query_len_max": 19,
+      "query_len_bands": {
+        "1–4": 8,
+        "5–8": 94,
+        "9–14": 88,
+        "15+": 11
+      },
+      "target_sha256": "764e2b513f4c"
+    }
+  },
+  "checks": {
+    "AidedCheltC": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "133 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1021 vs 1021 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1021 vs 1021"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "133 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1073 vs 1073 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1073 vs 1073"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "133 / 133"
+      }
+    ],
+    "abbot": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "94 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 831 vs 831 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "831 vs 831"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "94 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 929 vs 929 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "929 vs 929"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "94 / 94"
+      }
+    ],
+    "acSen": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "522 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 3879 vs 3879 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "3879 vs 3879"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "522 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4007 vs 4007 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4007 vs 4007"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "522 / 522"
+      }
+    ],
+    "aidedBres": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "43 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 284 vs 284 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "284 vs 284"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "43 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 335 vs 335 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "335 vs 335"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "43 / 43"
+      }
+    ],
+    "aidedCheitM": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "101 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 721 vs 721 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "721 vs 721"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "101 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 745 vs 745 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "745 vs 745"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "101 / 101"
+      }
+    ],
+    "aidedChel": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "133 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1020 vs 1020 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1020 vs 1020"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "133 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1073 vs 1073 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1073 vs 1073"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "133 / 133"
+      }
+    ],
+    "aidedChonch": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "128 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 858 vs 858 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "858 vs 858"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "128 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 996 vs 996 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "996 vs 996"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "128 / 128"
+      }
+    ],
+    "aidedConr": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "323 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1614 vs 1614 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1614 vs 1614"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "323 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2084 vs 2084 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2084 vs 2084"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "323 / 323"
+      }
+    ],
+    "aidedDiar": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "545 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4003 vs 4003 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4003 vs 4003"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "545 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4536 vs 4536 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4536 vs 4536"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "545 / 545"
+      }
+    ],
+    "aidedFerg": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "54 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 440 vs 440 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "440 vs 440"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "54 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 453 vs 453 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "453 vs 453"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "54 / 54"
+      }
+    ],
+    "aidedLoeg": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "29 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 210 vs 210 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "210 vs 210"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "29 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 220 vs 220 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "220 vs 220"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "29 / 29"
+      }
+    ],
+    "aidedMael": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "104 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 688 vs 688 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "688 vs 688"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "104 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 791 vs 791 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "791 vs 791"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "104 / 104"
+      }
+    ],
+    "aidedOenfir": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "189 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1102 vs 1102 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1102 vs 1102"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "189 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1251 vs 1251 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1251 vs 1251"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "189 / 189"
+      }
+    ],
+    "aislOeng": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "207 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1441 vs 1441 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1441 vs 1441"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "207 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1598 vs 1598 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1598 vs 1598"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "207 / 207"
+      }
+    ],
+    "baileBinn": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "109 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 547 vs 547 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "547 vs 547"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "109 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 680 vs 680 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "680 vs 680"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "109 / 109"
+      }
+    ],
+    "boroma": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "845 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 5665 vs 5665 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "5665 vs 5665"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "845 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 6230 vs 6230 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "6230 vs 6230"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "845 / 845"
+      }
+    ],
+    "cathAlma": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "330 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2062 vs 2062 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2062 vs 2062"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "330 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2369 vs 2369 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2369 vs 2369"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "330 / 330"
+      }
+    ],
+    "cathCairnn": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "216 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1453 vs 1453 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1453 vs 1453"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "216 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1753 vs 1753 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1753 vs 1753"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "216 / 216"
+      }
+    ],
+    "cathMaige": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "638 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 3781 vs 3781 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "3781 vs 3781"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "638 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4227 vs 4227 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4227 vs 4227"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "638 / 638"
+      }
+    ],
+    "ceartCla": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "113 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 798 vs 798 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "798 vs 798"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "113 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 994 vs 994 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "994 vs 994"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "113 / 113"
+      }
+    ],
+    "compertMon": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "603 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4278 vs 4278 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4278 vs 4278"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "603 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4371 vs 4371 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4371 vs 4371"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "603 / 603"
+      }
+    ],
+    "comracLiad": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "185 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 888 vs 888 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "888 vs 888"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "185 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 964 vs 964 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "964 vs 964"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "185 / 185"
+      }
+    ],
+    "echtraCho": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "111 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 613 vs 613 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "613 vs 613"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "111 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 786 vs 786 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "786 vs 786"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "111 / 111"
+      }
+    ],
+    "echtraCorm": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "217 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1397 vs 1397 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1397 vs 1397"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "217 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1755 vs 1755 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1755 vs 1755"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "217 / 217"
+      }
+    ],
+    "echtraFer": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "156 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 814 vs 814 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "814 vs 814"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "156 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1053 vs 1053 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1053 vs 1053"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "156 / 156"
+      }
+    ],
+    "echtraMac": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "291 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1636 vs 1636 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1636 vs 1636"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "291 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1813 vs 1813 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1813 vs 1813"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "291 / 291"
+      }
+    ],
+    "esnadaTige": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "126 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 803 vs 803 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "803 vs 803"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "126 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1022 vs 1022 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1022 vs 1022"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "126 / 126"
+      }
+    ],
+    "feisTighe": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "106 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 913 vs 913 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "913 vs 913"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "106 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 907 vs 907 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "907 vs 907"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "106 / 106"
+      }
+    ],
+    "fingalRon": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "333 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2156 vs 2156 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2156 vs 2156"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "333 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2509 vs 2509 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2509 vs 2509"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "333 / 333"
+      }
+    ],
+    "forbDroma": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "2295 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 17581 vs 17581 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "17581 vs 17581"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "2295 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 20196 vs 20196 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "20196 vs 20196"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "2295 / 2295"
+      }
+    ],
+    "genChor": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "259 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1511 vs 1511 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1511 vs 1511"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "259 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1654 vs 1654 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1654 vs 1654"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "259 / 259"
+      }
+    ],
+    "immBrain": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "318 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1792 vs 1792 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1792 vs 1792"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "318 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1996 vs 1996 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1996 vs 1996"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "318 / 318"
+      }
+    ],
+    "longesMac": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "399 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2428 vs 2428 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2428 vs 2428"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "399 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2600 vs 2600 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2600 vs 2600"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "399 / 399"
+      }
+    ],
+    "mescaUlad": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "1098 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 8073 vs 8073 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "8073 vs 8073"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "1098 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 9620 vs 9620 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "9620 vs 9620"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "1098 / 1098"
+      }
+    ],
+    "noínUlad": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "71 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 457 vs 457 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "457 vs 457"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "71 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 575 vs 575 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "575 vs 575"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "71 / 71"
+      }
+    ],
+    "oenachInd": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "216 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1079 vs 1079 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1079 vs 1079"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "216 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1285 vs 1285 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1285 vs 1285"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "216 / 216"
+      }
+    ],
+    "oidheChlo": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "873 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 6154 vs 6154 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "6154 vs 6154"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "873 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 6513 vs 6513 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "6513 vs 6513"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "873 / 873"
+      }
+    ],
+    "orgTri": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "99 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 656 vs 656 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "656 vs 656"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "99 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 810 vs 810 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "810 vs 810"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "99 / 99"
+      }
+    ],
+    "scelaCano": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "594 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 3859 vs 3859 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "3859 vs 3859"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "594 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4482 vs 4482 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4482 vs 4482"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "594 / 594"
+      }
+    ],
+    "scelaCol": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "78 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 600 vs 600 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "600 vs 600"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "78 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 694 vs 694 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "694 vs 694"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "78 / 78"
+      }
+    ],
+    "scelaGu": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "129 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 771 vs 771 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "771 vs 771"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "129 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 964 vs 964 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "964 vs 964"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "129 / 129"
+      }
+    ],
+    "scelaGua": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "34 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 215 vs 215 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "215 vs 215"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "34 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 261 vs 261 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "261 vs 261"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "34 / 34"
+      }
+    ],
+    "scelaMon": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "96 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 632 vs 632 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "632 vs 632"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "96 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 771 vs 771 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "771 vs 771"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "96 / 96"
+      }
+    ],
+    "scelaMuc": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "374 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2412 vs 2412 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2412 vs 2412"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "374 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 2725 vs 2725 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "2725 vs 2725"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "374 / 374"
+      }
+    ],
+    "tainBo": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "903 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 7731 vs 7731 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "7731 vs 7731"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "903 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 8585 vs 8585 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "8585 vs 8585"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "903 / 903"
+      }
+    ],
+    "tochEm": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "567 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4436 vs 4436 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4436 vs 4436"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "567 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 5413 vs 5413 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "5413 vs 5413"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "567 / 567"
+      }
+    ],
+    "tochmEm": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "209 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1366 vs 1366 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1366 vs 1366"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "209 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1768 vs 1768 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1768 vs 1768"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "209 / 209"
+      }
+    ],
+    "tochmEt": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "999 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 6684 vs 6684 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "6684 vs 6684"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "999 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 7758 vs 7758 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "7758 vs 7758"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "999 / 999"
+      }
+    ],
+    "toruig": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "205 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1778 vs 1778 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1778 vs 1778"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "205 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 1770 vs 1770 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "1770 vs 1770"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "205 / 205"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "works": "acSen",
+  "direction": "med2mod",
+  "ratio": "1.0",
+  "ratios": {
+    "acSen": 1.0
+  },
+  "conditions": [
+    "levenshtein"
+  ],
+  "step": 1,
+  "threshold": null,
+  "pruning": "none",
+  "tie_rule": "worst-case (gold after every equal score)",
+  "segment_rule": "most overlapping word positions; tie -> middle word's segment, else earlier",
+  "verified_queries_against_moving_window": 5,
+  "git_commit": "42ee1a8",
+  "seconds": 3.6,
+  "index": {
+    "vocab.json": "5c98366fa98e5faf",
+    "docs.json": "3ff6fa9ca988ab2a",
+    "lengths.npy": "eb7e9b8a64cc77b4"
+  }
+}
