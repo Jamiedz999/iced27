@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# Built by `python -m fuzzysearch.vocab corpus index`; ~1.2 GB
+index/

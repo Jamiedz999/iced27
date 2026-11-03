@@ -1,0 +1,79 @@
+{
+  "direction": "med2mod",
+  "works": {
+    "acSen": {
+      "segments": 522,
+      "queries": 522,
+      "empty_query_segments": 0,
+      "empty_answer_segments": 0,
+      "query_tokens": 3879,
+      "target_tokens": 4007,
+      "length_ratio": 1.0329981954111884,
+      "segment_ratio_median": 1.0,
+      "segment_ratio_iqr": [
+        1.0,
+        1.0
+      ],
+      "shared_token_share": 0.32327919566898683,
+      "query_len_min": 2,
+      "query_len_median": 6.0,
+      "query_len_max": 28,
+      "query_len_bands": {
+        "1–4": 88,
+        "5–8": 284,
+        "9–14": 125,
+        "15+": 25
+      },
+      "target_sha256": "1d788ff6b184"
+    }
+  },
+  "checks": {
+    "acSen": [
+      {
+        "check": "medieval: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "522 segments"
+      },
+      {
+        "check": "medieval: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 3879 vs 3879 words"
+      },
+      {
+        "check": "medieval: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "medieval: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "3879 vs 3879"
+      },
+      {
+        "check": "modern: segments are contiguous, in order, without overlap",
+        "passed": true,
+        "detail": "522 segments"
+      },
+      {
+        "check": "modern: segments cover the whole sequence",
+        "passed": true,
+        "detail": "last end 4007 vs 4007 words"
+      },
+      {
+        "check": "modern: every segment's words equal its corpus text tokenized (lowercase \\w+)",
+        "passed": true,
+        "detail": "0 mismatches"
+      },
+      {
+        "check": "modern: word count equals corpus/extracted/manifest.json",
+        "passed": true,
+        "detail": "4007 vs 4007"
+      },
+      {
+        "check": "query and answer segment IDs correspond one-to-one, same order",
+        "passed": true,
+        "detail": "522 / 522"
+      }
+    ]
+  }
+}

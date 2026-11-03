@@ -3,3 +3,7 @@
 .~lock.*
 # macOS
 .DS_Store
+# Dependencies / build caches
+node_modules/
+__pycache__/
+*.py[cod]
